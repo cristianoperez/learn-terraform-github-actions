@@ -12,7 +12,7 @@ terraform {
   required_version = "~> 0.14"
 
   backend "remote" {
-    organization = "banana"
+    organization = "bananaa"
 
     workspaces {
       name = "gh-actions-demo"
